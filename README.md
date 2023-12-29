@@ -3,11 +3,10 @@
 
 ### 프로젝트 로고
 
-<img src='https://github.com/hakjaeson/date-app-client/assets/148872772/6d2081c8-6e21-47fe-82f1-6879ff64a575' width="200" height ="200"/>
+<img src='https://github.com/devgreact/react-study/assets/67895755/e529b610-fed1-4290-9662-d61354d09570' width="500" height ="200"/>
 
 ## 시연 영상
-
-시연연상 자리
+[![Video Label](https://github.com/hakjaeson/date-app-client/assets/148872772/6d2081c8-6e21-47fe-82f1-6879ff64a575)](https://youtu.be/-n116VzZ49I)
 
 ## 프로젝트 소개
 
