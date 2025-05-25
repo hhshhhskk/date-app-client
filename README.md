@@ -7,7 +7,8 @@
 
 ## 시연 영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-n116VzZ49I?si=9NC-UHb8k5MAozuL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![영상 썸네일](https://img.youtube.com/vi/-n116VzZ49I/0.jpg)](https://www.youtube.com/watch?v=-n116VzZ49I)
+
 
 ## 프로젝트 소개
 
