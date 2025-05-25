@@ -7,6 +7,8 @@
 
 ## 시연 영상
 
+클릭시 유튜브로 이동
+
 [![영상 썸네일](https://img.youtube.com/vi/-n116VzZ49I/0.jpg)](https://www.youtube.com/watch?v=-n116VzZ49I)
 
 
